@@ -15,6 +15,7 @@ h2 {
     text-decoration:none;
     transition:0.1s all;
     position:relative;
+    margin:8px;
 }
 
 .link::after {
@@ -45,6 +46,7 @@ h2 {
     max-width:700px;
 }
 
-p {
+p, li {
     line-height:150%;
+    font-weight:200;
 }
